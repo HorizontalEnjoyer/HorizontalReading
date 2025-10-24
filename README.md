@@ -16,5 +16,8 @@ Future ideas
  - share your own layouts and positioning (rotations) 
 
 
-Join Discord if you want 
- will upload some examples how to work
+# Extra
+
+Join Discord if you want - https://discord.gg/FdN9NsSZ 
+ will upload some examples there how to work
+ as well as some plans for future development
