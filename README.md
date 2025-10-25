@@ -2,7 +2,8 @@
 A collection of one click scripts (bookmarklets) to make reading experiene 10x better
 
 **Asura** - [Copy from here and paste to Add Browser Bookmark -> URL](asura_horizontal_bookmark.js)
-**MangaKatana**  - [Copy from here and paste in URL field of Add Browser Bookmark] (mangakatana_horizontal_bookmark.js)
+
+**MangaKatana**  - [Copy from here and paste in URL field of Add Browser Bookmark](mangakatana_horizontal_bookmark.js)
 
 # Guide
  1. Copy the Code (from "website_of_choice"_bookmark.js) in a **Browser Bookmark** (Right click toolbar, Add, Paste to URL)
