@@ -6,11 +6,17 @@ Put the code in a bookmark , load site, click bookmark (it runs the script)
 click twice to mark the horizontal panel, it rotates , success 
 If you want use the undo buttons
 
+## Functionality
+- change rotate direction
+- undo (in case you mess up)
+
+
 # To Do 
  - examples
  - different websites
+ - zoom for super long panels 
 
-Future ideas
+## Future ideas
  - shareable chapter positioning
  - loading someones already rotated images, just click and read
  - share your own layouts and positioning (rotations) 
