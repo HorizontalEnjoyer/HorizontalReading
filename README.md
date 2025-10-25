@@ -9,12 +9,14 @@ If you want use the undo buttons
 ## Functionality
 - change rotate direction
 - undo (in case you mess up)
+- you gotta click on each refresh or next chapter (for now)
 
 
 # To Do 
  - examples
  - different websites
- - zoom for super long panels 
+ - zoom for super long panels
+ - Make it persistent accross chapters
 
 ## Future ideas
  - shareable chapter positioning
