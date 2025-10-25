@@ -4,8 +4,13 @@ A collection of one click scripts (bookmarklets) to make reading experiene 10x b
 **Asura** - [Copy from here and paste to Add Bookmark -> URL](asura_horizontal_bookmark.js)
 
 # Guide
-Put the code in a bookmark , load site, click bookmark (it runs the script) 
-click twice to mark the horizontal panel, it rotates , success 
+ 1. Put the Code (from _bookmark.js) in a bookmark (Right click bar, Add, Paste to URL)
+ 2. Load site
+ 3. Click bookmark (it runs the script) 
+ 4. Click twice to mark the horizontal panel
+ 5. It rotates
+ 6. Success
+     
 If you want use the undo buttons
 Also did rotation direction
 
