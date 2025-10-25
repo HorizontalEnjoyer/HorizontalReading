@@ -4,7 +4,7 @@ A collection of one click scripts (bookmarklets) to make reading experiene 10x b
 **Asura** - [Copy from here and paste to Add Bookmark -> URL](asura_horizontal_bookmark.js)
 
 # Guide
- 1. Put the Code (from _bookmark.js) in a bookmark (Right click bar, Add, Paste to URL)
+ 1. Put the Code (from "website_of_choice"_bookmark.js) in a **Browser Bookmark** (Right click toolbar, Add, Paste to URL)
  2. Load site
  3. Click bookmark (it runs the script) 
  4. Click twice to mark the horizontal panel
